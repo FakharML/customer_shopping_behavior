@@ -54,7 +54,3 @@ The Power BI report includes dynamic filtering capabilities allowing stakeholder
 * **Shipping Type** (2-Day Shipping, Express, Free Shipping, Next Day Air, Standard, Store Pickup)[cite: 1]
 
 ---
-
-├── mysql_scripts/         # SQL queries and database schema setup
-├── powerbi_dashboard/     # Power BI report file (.pbix)
-└── README.md              # Project documentation
